@@ -1,6 +1,5 @@
-1. Introduction
-<p style="font-size:16px">I have created a weather application which tells you the temperature and provides you with a brief description of the weather of lots of the major capital cities of popular holiday countries around the world.</p>
-<p style="font-size:16px">The recycler view allows the user to scroll seamlessly through a wide range of countries and upon clicking on a country you are met with the weather information and name of the capital city of that given country</p>
-<p style="font-size:16px">Through the menus, the user has the ability to toggle between different units of temperature and can get the information either in Celsius or Fahrenheit.</p>
-<p style="font-size:16px">Also through the menus, the user has the ability to change the background colour of all windows of the application to either white, red, blue or green. Their preference is stored and will remain set at the colour the user selects until the user changes the colour again.</p>
-<p style="font-size:16px">The application still functions with no internet connection, albeit the weather information cannot load when requested, however, the application informs the user they have no internet connection and encourages the user to check their connection, the application does not crash upon lack of internet.</p>
+# **1. Introduction**
+
+&emsp;I have created a weather application which tells you the temperature and provides you with a brief description of the weather of lots of the major capital cities of popular holiday countries around the world.
+
+&emsp;The recycler view allows the user to scroll seamlessly through a wide range of countries and upon clicking on
